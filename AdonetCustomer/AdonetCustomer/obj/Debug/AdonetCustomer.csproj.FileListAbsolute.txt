@@ -1,0 +1,13 @@
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\bin\Debug\AdonetCustomer.exe.config
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\bin\Debug\AdonetCustomer.exe
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\bin\Debug\AdonetCustomer.pdb
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.AssemblyReference.cache
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.FrmCity.resources
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.Properties.Resources.resources
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.GenerateResource.cache
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.csproj.CoreCompileInputs.cache
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.exe
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.pdb
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.FrmCustomer.resources
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.FrmMap.resources
+C:\Github\AdonetMusteriProjesi\AdonetCustomer\AdonetCustomer\obj\Debug\AdonetCustomer.FrmStatistics.resources
